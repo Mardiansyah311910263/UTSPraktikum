@@ -16,6 +16,6 @@ Universitas Pelita Bangsa
 ![moderno-creative-simpleportfolio-page-58](https://user-images.githubusercontent.com/81758407/117498250-c1bf4580-afa3-11eb-9a75-a40016def173.jpg)
 
 ## Hasil yang dikerjakan
-HOME
-![Uploading h1.PNG…]()
-SERVICES
+![h1](https://user-images.githubusercontent.com/81758407/117500739-3cd62b00-afa7-11eb-9c09-5288c8eb2d2f.PNG)
+![h2](https://user-images.githubusercontent.com/81758407/117500738-3ba4fe00-afa7-11eb-9b04-13da3bafc382.PNG)
+![h3](https://user-images.githubusercontent.com/81758407/117500736-3a73d100-afa7-11eb-9ca7-1e696a1caa59.PNG)
