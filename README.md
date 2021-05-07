@@ -14,3 +14,8 @@ Universitas Pelita Bangsa
 
 ## Contoh mockup desain web
 ![moderno-creative-simpleportfolio-page-58](https://user-images.githubusercontent.com/81758407/117498250-c1bf4580-afa3-11eb-9a75-a40016def173.jpg)
+
+## Hasil yang dikerjakan
+HOME
+![Uploading h1.PNG…]()
+SERVICES
